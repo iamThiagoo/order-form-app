@@ -1,0 +1,16 @@
+C:\Users\thiag\source\repos\Trabalho\Trabalho\bin\Debug\net8.0-windows\Trabalho.exe
+C:\Users\thiag\source\repos\Trabalho\Trabalho\bin\Debug\net8.0-windows\Trabalho.deps.json
+C:\Users\thiag\source\repos\Trabalho\Trabalho\bin\Debug\net8.0-windows\Trabalho.runtimeconfig.json
+C:\Users\thiag\source\repos\Trabalho\Trabalho\bin\Debug\net8.0-windows\Trabalho.dll
+C:\Users\thiag\source\repos\Trabalho\Trabalho\bin\Debug\net8.0-windows\Trabalho.pdb
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.csproj.GenerateResource.cache
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.AssemblyInfo.cs
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.dll
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\refint\Trabalho.dll
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.pdb
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.genruntimeconfig.cache
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\ref\Trabalho.dll
+C:\Users\thiag\source\repos\Trabalho\Trabalho\obj\Debug\net8.0-windows\Trabalho.views.ProdutoView.resources
